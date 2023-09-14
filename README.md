@@ -1,2 +1,4 @@
-# Pagina-web-para-Cafeteria
-Es una pagina web para una cafeteria 
+# CURSO-SEP-DIC-MIERCOLES
+Este repositorio es para el ejercicio del curso
+hola mundo soy Caleb Adrian Nava Medrano
+
